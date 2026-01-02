@@ -1,1 +1,1 @@
-![Homepage hero section](frontend/src/assets/ss.png)
+![Homepage hero section](src/assets/ss.png)
