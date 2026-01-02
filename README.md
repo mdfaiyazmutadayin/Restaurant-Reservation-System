@@ -1,1 +1,1 @@
-![image](https://github.com/mdfaiyazmutadayin/Restaurant-Reservation-System/assets/ss.png)
+![image](https://github.com/mdfaiyazmutadayin/Restaurant-Reservation-System/src/assets/ss.png)
