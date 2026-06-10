@@ -2,6 +2,7 @@ import React from 'react'
 //import Navbar from './Components/Navbar'
 import Hero from './Components/Hero'
 import Services from './Components/Services'
+import Menu from './Components/Menu'
 
  const App = () => {
   return (
@@ -9,6 +10,7 @@ import Services from './Components/Services'
 {/*<Navbar/>*/}
 <Hero/>
 <Services/>
+<Menu/>
     </div>
   )
 }
