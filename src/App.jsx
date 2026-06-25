@@ -3,6 +3,7 @@ import React from 'react'
 import Hero from './Components/Hero'
 import Services from './Components/Services'
 import Menu from './Components/Menu'
+import ReservationForm from './Components/ReservationForm'
 
  const App = () => {
   return (
@@ -11,6 +12,7 @@ import Menu from './Components/Menu'
 <Hero/>
 <Services/>
 <Menu/>
+<ReservationForm/>
     </div>
   )
 }
